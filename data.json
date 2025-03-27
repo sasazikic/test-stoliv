@@ -2,7 +2,7 @@
     {
         "tour": 1,
         "seats": {
-            1: "booked"
+            "1": "booked"
         }
     }
 ]
